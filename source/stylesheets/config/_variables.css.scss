@@ -38,3 +38,19 @@ $gray-dark:    lighten(#000, 20%);   // #333
 $gray:         lighten(#000, 33.5%); // #555
 $gray-light:   lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
+
+//cards
+
+$text-shadow-card: rgba(0,0,0,0.6);
+
+//footer
+
+$footer-background: rgba( 0, 0, 0, 0.6);
+$footer-text : #CCCCCC;
+$footer-hover: rgba(10, 10, 130, 0.5);
+
+//banner
+
+$banner-h-color: white;
+$banner-text-shadow: rgba(0, 0, 0, 0.2);
+$banner-text-color: rgba(255, 255, 255, 0.7);

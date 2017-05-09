@@ -1,0 +1,17 @@
+
+#footer{
+  background-color: $footer-background;
+  padding:50px 30px;
+    a {
+    color: $footer-text;
+    font-size: 30px;
+    letter-spacing: 20px;
+    transition: color 0.5s ease;
+      &:hover{
+        color: $footer-hover;
+    }
+  }
+    p {
+    color:$footer-text;
+  }
+}
